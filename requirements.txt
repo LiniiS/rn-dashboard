@@ -1,0 +1,13 @@
+# Dashboard de Análise de Ideias de Aplicativos
+# Dependências para execução no Streamlit
+
+streamlit>=1.28.0
+pandas>=2.0.0
+plotly>=5.17.0
+pathlib2>=2.3.7
+
+# Dependências opcionais para desenvolvimento
+# Descomente se necessário para desenvolvimento local
+# jupyter>=1.0.0
+# black>=23.0.0
+# flake8>=6.0.0

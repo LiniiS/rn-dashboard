@@ -1,0 +1,97 @@
+﻿id,ideia_resumo,apps_semelhantes,RN_camera,RN_maps,RN_notificacoes,RN_autenticacao,RN_pagamentos,Complexidade,Alertas_etico_legais
+1,Rede social de imagens (Snapchat + Instagram),Instagram; Snapchat,Sim,Não,Sim,Sim,Não,Média-Alta,LGPD (dados pessoais/sensíveis); Moderação de conteúdo
+2,Sem ideia (indefinido),,Não,Não,Não,Não,Não,Média-Alta,
+3,Rede de conhecimento em TI com avaliação,Stack Overflow; Dev.to,Não,Não,Não,Sim,Não,Média-Alta,
+4,Aprendizado prático e atualizado em TI,Khan Academy; Alura,Não,Não,Sim,Sim,Não,Média,
+5,Edu infantil gamificada com avatares,Khan Kids; Duolingo Kids,Não,Não,Não,Sim,Não,Média-Alta,
+6,Jogo para grande público,Roblox; Stumble Guys,Não,Não,Sim,Sim,Não,Média,
+7,Leitura colaborativa + troca de livros,Skoob; Goodreads,Não,Não,Não,Sim,Não,Média,
+8,Agregador de eventos da cidade/estado,Sympla; Eventbrite,Não,Sim,Sim,Sim,Não,Média,Coleta de localização; segurança do usuário
+9,Detectar humor/estresse e sugerir ajuda,Wysa; MindDoc,Sim,Não,Não,Sim,Não,Média,
+10,Relacionamento voltado para homens,Tinder; Bumble,Não,Não,Não,Sim,Não,Média,LGPD (dados pessoais/sensíveis)
+11,Utilitário não especificado,,Não,Não,Não,Não,Não,Média,
+12,Jogos entre amigos (diversão/desafios),Google Play Games; Game Center,Não,Não,Sim,Sim,Não,Média,
+13,Concorrente de YouTube,YouTube; Rumble,Não,Não,Não,Sim,Não,Alta,
+14,Busca de mercadorias multi-lojista,Mercado Livre; Buscapé,Não,Não,Não,Sim,Sim,Média-Alta,
+15,Rotina para estabilizar saúde mental,Headspace; Calm,Sim,Não,Sim,Sim,Não,Média,LGPD (dados pessoais/sensíveis); Regulação saúde/telemedicina; consentimento
+16,Agenda para empreendedores,Google Agenda; Calendly,Não,Não,Não,Sim,Não,Média,
+17,Controle de recebimento de encomendas,17Track; Muambator,Não,Não,Não,Sim,Não,Média,
+18,Jogo de fases com prêmios em dinheiro,CashQuiz; Skillz,Não,Não,Sim,Sim,Sim,Média,
+19,Guia de vida (bem-estar + gestão),Fabulous; Finch,Sim,Não,Não,Sim,Não,Média-Alta,
+20,Sem ideia (indefinido),,Não,Não,Não,Não,Não,Média-Alta,
+21,Estudo por perguntas geradas de textos,Quizlet; Anki,Não,Não,Sim,Sim,Não,Média,
+22,Caronas particulares,BlaBlaCar; 99Poupa (conceito),Não,Sim,Não,Sim,Sim,Alta,Coleta de localização; segurança do usuário
+23,Jogo competitivo sobre academia,Strava; Fitocracy,Não,Não,Sim,Sim,Não,Média-Alta,
+24,Renda extra local/digital (serviços),GetNinjas; Workana,Não,Não,Não,Sim,Sim,Média,Pagamentos/anti-fraude; KYC/AML
+25,Transporte por app exclusivo para mulheres,Lady Driver; FemiTaxi,Não,Sim,Não,Sim,Sim,Alta,
+26,Controle de água e hábitos de saúde,Water Reminder; Plant Nanny,Não,Não,Sim,Sim,Não,Baixa,LGPD (dados pessoais/sensíveis); Regulação saúde/telemedicina; consentimento
+27,Sem ideia (projetos pessoais),,Não,Não,Não,Não,Não,Média-Alta,
+28,App com cursos variados,Coursera; Udemy,Não,Não,Sim,Sim,Sim,Média-Alta,
+29,Verificação de antecedentes para encontros,CheckPeople; Serasa,Não,Não,Não,Sim,Não,Média,
+30,Cassino social sem dinheiro real,Mistplay; Huuuge,Não,Não,Não,Sim,Sim,Média-Alta,Jogo responsável; restrições etárias
+31,Avaliar produto e sugerir nichos/lugares,OLX Pro; Google Trends,Sim,Não,Não,Sim,Não,Média-Alta,
+32,Presença por QR + geolocalização em aulas,iDoceo Attendance; Classroom (QR),Sim,Sim,Não,Sim,Não,Média,Coleta de localização; segurança do usuário; LGPD (dados pessoais/sensíveis)
+33,Avaliação de séries tipo Letterboxd,TV Time; Letterboxd,Não,Não,Não,Sim,Não,Média-Alta,
+34,AR+IA para revelar informações de pessoas,—,Sim,Não,Não,Sim,Não,Alta,Risco ético (reconhecimento/identificação)
+35,Ranking de preços de fornecedores por região,Buscapé; Cotação Simples,Não,Sim,Não,Sim,Não,Média-Alta,Scraping/TOS; uso de dados de terceiros
+36,Sem ideia,,Não,Não,Não,Não,Não,Média-Alta,
+37,Jogo de ritmo 2D com combate,Cytus; Muse Dash,Não,Não,Sim,Sim,Não,Média,
+38,Tinder-like (1),Tinder,Não,Não,Não,Sim,Não,Média,
+39,Tinder-like (2),Tinder,Não,Não,Não,Sim,Não,Média,
+40,Ensinar gírias locais a estrangeiros,Duolingo; Lingopie,Sim,Sim,Não,Sim,Não,Média-Alta,
+41,Plano de estudos diário do roadmap.sh,roadmap.sh; Codecademy Paths,Não,Não,Sim,Sim,Não,Média,
+42,Horários de medicamentos (idosos),Medisafe; CareClinic,Não,Não,Sim,Sim,Não,Média,LGPD (dados pessoais/sensíveis); Regulação saúde/telemedicina; consentimento
+43,Ler QR/menu e sugerir opções/gasto mínimo,Google Lens; Yelp,Sim,Não,Não,Sim,Não,Média,
+44,Marcar consultas médicas online,Dr.Consulta; Conexa Saúde,Sim,Não,Sim,Sim,Não,Alta,LGPD (dados pessoais/sensíveis); Regulação saúde/telemedicina; consentimento
+45,Saúde mental com IA e hábitos,Wysa; Woebot,Não,Não,Sim,Sim,Não,Média-Alta,LGPD (dados pessoais/sensíveis); Regulação saúde/telemedicina; consentimento
+46,Dados de bancos/fundos + educação financeira,TradeMap; Kinvo,Não,Não,Não,Sim,Não,Alta,LGPD (dados pessoais/sensíveis); Pagamentos/anti-fraude; KYC/AML
+47,IA companheira (mentor/organizador),Pi.ai; Replika,Não,Não,Não,Sim,Não,Alta,
+48,Mangás com reviews e links de compra,MANGA Plus; Crunchyroll Manga,Não,Não,Não,Sim,Sim,Média,Pagamentos/anti-fraude; KYC/AML
+49,Personalização do smartphone (wallpapers etc.),Zedge; Themify,Não,Não,Não,Sim,Não,Média,
+50,"Cuidado de idosos (remédios, tarefas, lazer)",Senior Safety; CareZone,Não,Não,Sim,Sim,Não,Média,LGPD (dados pessoais/sensíveis); Regulação saúde/telemedicina; consentimento
+51,Autodesenvolvimento gamificado (hábitos),Habitica; Forest,Não,Não,Sim,Sim,Não,Média,
+52,Aulas e partituras de música,MuseScore; Yousician,Não,Não,Não,Sim,Não,Média,
+53,Duolingo de cursos (multiárea),Duolingo; Brilliant,Não,Não,Sim,Sim,Sim,Média,
+54,Leitura unificada (livros/mangás/novels),Kindle; Pocket,Não,Não,Não,Sim,Não,Média,
+55,Doações por Pix/boleto,PicPay Doações; Atados,Não,Não,Sim,Sim,Sim,Média,Pagamentos/anti-fraude; KYC/AML
+56,Educação acessível e personalizada,Khan Academy; Coursera,Não,Não,Não,Sim,Não,Média,
+57,Plante uma árvore (desafios),Forest; Ecosia,Não,Sim,Sim,Sim,Sim,Média,Coleta de localização; segurança do usuário
+58,Ver ônibus em tempo real,Moovit; CittaMobi,Não,Sim,Não,Não,Não,Alta,Coleta de localização; segurança do usuário
+59,Cupons recorrentes com alertas,Pelando; Cuponeria,Não,Não,Sim,Sim,Sim,Média,
+60,Saúde + produtividade (treino/dieta/dicas),Nike Training Club; Freeletics,Não,Não,Sim,Sim,Não,Média,LGPD (dados pessoais/sensíveis); Regulação saúde/telemedicina; consentimento
+61,Segurança feminina preventiva,SOS Mulher; Noonlight,Não,Não,Não,Sim,Não,Média,
+62,Tarefas e hábitos unificados,TickTick; Todoist,Não,Não,Sim,Sim,Não,Média,
+63,Jogo com desafios de código,CodeCombat; CheckiO,Não,Não,Sim,Sim,Não,Média,
+64,Teleterapia + comunidade,Zenklub; Vittude,Não,Não,Não,Sim,Não,Média-Alta,LGPD (dados pessoais/sensíveis); Moderação de conteúdo; Regulação saúde/telemedicina; consentimento
+65,Gestão de tempo/rotina personalizável,Notion; TimeBloc,Não,Não,Sim,Sim,Não,Baixa,
+66,Monitor de redes com bloqueio por limite,Digital Wellbeing; Forest,Não,Não,Sim,Sim,Não,Média,
+67,Marketplace de itens de jogos,SkinBaron; GamerBay,Não,Não,Sim,Sim,Sim,Média,Pagamentos/anti-fraude; KYC/AML
+68,Jogo diversão + conhecimento,Kahoot!; Brilliant,Não,Não,Sim,Sim,Não,Média,
+69,Ajuda contra vício em apostas,Gamban; Bettor Time,Não,Não,Não,Sim,Não,Média,Jogo responsável; restrições etárias
+70,Agregador de eventos (variante),Sympla; Agenda Cultural SP,Não,Sim,Sim,Sim,Não,Média-Alta,Coleta de localização; segurança do usuário
+71,Educacional gratuito + tutoria,Khan Academy; Prodigy,Não,Não,Sim,Sim,Não,Média-Alta,
+72,Viagens e entregas tipo Uber/99,Uber; 99,Não,Sim,Sim,Sim,Sim,Alta,Coleta de localização; segurança do usuário
+73,Encontrar fotos/vídeos semelhantes,Google Imagens; PimEyes,Sim,Não,Não,Sim,Não,Alta,LGPD (dados pessoais/sensíveis); Risco ético (reconhecimento/identificação); Scraping/TOS; uso de dados de terceiros
+74,Rede social para menores com controle parental,Messenger Kids; Kinzoo,Não,Não,Não,Sim,Não,Média-Alta,LGPD (dados pessoais/sensíveis); Moderação de conteúdo; Proteção infantil (LGPD-K/COPPA)
+75,To-do por voz com IA,Any.do; Microsoft To Do + Copilot,Não,Não,Não,Sim,Não,Média-Alta,
+76,App simples para passar o tempo,,Sim,Não,Não,Não,Não,Média,
+77,Gestão de estoque/lucros para pequeno comércio,Kyte; Nuvemshop,Não,Não,Não,Sim,Sim,Média,
+78,Rede social ligada à música,SoundCloud; Smule,Não,Não,Não,Sim,Não,Média-Alta,LGPD (dados pessoais/sensíveis); Moderação de conteúdo
+79,App de academia (treinos/cargas/dicas),Strong; FitNotes,Não,Não,Sim,Sim,Não,Média-Alta,
+80,Bot para Shopee (promoções automáticas),Bots de ofertas; Shopee Notifier,Não,Não,Não,Sim,Não,Média,
+81,Doação/adoção de pets,Adote Petz; AdoteUmPet,Não,Não,Não,Sim,Sim,Média,
+82,Rede social astrológica,Co–Star; The Pattern,Não,Não,Não,Sim,Não,Média-Alta,LGPD (dados pessoais/sensíveis); Moderação de conteúdo
+83,Educação prática com IA e mentores,Udemy + MentorClass; Platzi,Não,Não,Não,Sim,Não,Média-Alta,
+84,Poda/retirada de árvores com prefeitura,1746; Colab,Não,Sim,Não,Sim,Não,Alta,Coleta de localização; segurança do usuário
+85,Treino com IA que ajusta plano e dieta,Freeletics; Fitbod,Não,Não,Sim,Sim,Não,Média-Alta,
+86,Modelagem 3D no Android,Prisma3D; Sculpt+,Não,Não,Não,Sim,Não,Média,
+87,Saúde mental p/ jovens heavy-users,Calm Harm; Headspace,Não,Não,Não,Sim,Não,Média,LGPD (dados pessoais/sensíveis); Regulação saúde/telemedicina; consentimento
+88,"Organização diária (rotinas, checklist)",Google Agenda + Tasks; Notion,Não,Não,Sim,Sim,Não,Média-Alta,
+89,Bem-estar mental: meditação/respiração/gratidão,Headspace; Insight Timer,Sim,Não,Não,Sim,Não,Média,
+90,Validação/conexão de ideias com IA,PatentScope; YC Startup School,Não,Não,Não,Sim,Não,Média-Alta,
+91,Tributário: alíquotas ISS por município,Econet; IBPT,Não,Não,Não,Sim,Não,Média,
+92,Simulador de futebol por probabilidades,Top Eleven; PES Club Manager,Não,Não,Não,Sim,Não,Média,
+93,Gestão de tempo e produtividade,Todoist; Habitica,Não,Não,Não,Sim,Não,Média,
+94,Lembrar de beber água,WaterMinder; Plant Nanny,Sim,Não,Sim,Sim,Não,Baixa,
+95,Saúde mental acessível (guiada + suporte),Wysa; Zenklub,Não,Não,Não,Sim,Não,Média-Alta,LGPD (dados pessoais/sensíveis); Regulação saúde/telemedicina; consentimento
+96,Rede de apoio a pessoas com câncer,WeCancer; BELONG,Não,Não,Não,Sim,Não,Média,Curadoria médica; moderação de comunidade; Regulação saúde/telemedicina; consentimento
